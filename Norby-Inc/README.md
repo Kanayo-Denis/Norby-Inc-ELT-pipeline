@@ -304,4 +304,4 @@ This project is a personal endeavor and is not provided with any licensing or pe
 
 You may view, study, and learn from this project, but you may not copy, distribute, modify, or use it for any purpose other than personal exploration. If you wish to use or adapt any part of this project for any other purpose, please seek explicit permission from the project creator.
 
-© Obinna Okorocha - 2023
+© Kanayo Denis-Akano - 2023
